@@ -13,3 +13,5 @@ Saved
 *.xcodeproj
 *.xcworkspace
 *.log
+
+!Plugins/UE4GitPlugin-2.16-beta/Binaries
